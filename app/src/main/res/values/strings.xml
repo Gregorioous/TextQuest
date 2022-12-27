@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TextQuest</string>
+    <string name="step1">Вы проснулись в комнате и в ней есть стол и сундук. Что делать дальше? Подойти к столу или попробовать открыть сундук.</string>
+    <string name="step1action1">Подойти к столу</string>
+    <string name="step1action2">Открыть сундук</string>
+    <string name="step2">Записка на столе: Удали Геншин Импакт. Что делать дальше? Выйти из жизни или открыть сундук? </string>
+    <string name="step2action1">Выйти из жизни</string>
+    <string name="step2action2">Открыть сундук</string>
+    <string name="step3">В сундуке находится смерть кизяки. Что ты сделаешь дальше ? Убьешь его или будешь шантажировать?</string>
+    <string name="step3action1">Поздравляю ты убил кизяку и теперь ты становишься капитаном помойки(корабелки) и у тебя нету возможености отказаться так как ЧАСТЬ КОМАНДЫ ЧАСТЬ КОРАБЛЯ!!!</string>
+    <string name="step3action2">Поздравляю у тебя автоматом 5 за опд</string>
+    <string name="step4">По сути квест кончился так как мне лень печатать, но у меня есть к тебе вопрос очень важный ... Что лучше сишка или питон?</string>
+    <string name="step4action1">сишка</string>
+    <string name="step4ction2">питон</string>
+    <string name="stepFinal1">Молодец ты настоящий извращенец</string>
+    <string name="stepFinal2">Тоже не плохой выбор но корабелы не используют более лёгкие способы поэтому ты получаешь бан.</string>
+</resources>
