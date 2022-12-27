@@ -3,7 +3,7 @@ package com.example.textquest
 import android.app.Application
 import com.google.gson.Gson
 
-class App: Application(), ProvideViewModel {
+class App : Application(), ProvideViewModel {
 
     private lateinit var viewModel: MainViewModel
 

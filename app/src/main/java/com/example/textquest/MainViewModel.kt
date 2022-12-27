@@ -4,9 +4,8 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Observer
 
-class MainViewModel(
-    private val communication: Communication.Mutable,
-    private val repository: Repository
+class MainViewModel( private val communication: Communication.Mutable,
+private val repository: Repository
 ) : Communication.Observe, ActionCallback {
 
     private val mapper = ScreenDataToUi(this)
